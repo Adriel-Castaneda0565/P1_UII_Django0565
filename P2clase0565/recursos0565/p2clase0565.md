@@ -1,0 +1,14 @@
+- Crear aplicacion Castañeda_app
+- comando --> python manage.py startapp castaedaclase_app
+- Creamos el archivo urls.py en castañedaclase_app
+- ![alt text](image.png)
+- En setting.py de p2clase0565
+- ![alt text](image-2.png)
+- En urls.py de p2clase0565
+- ![alt text](image-1.png)
+- En urls.py de castanedaclase_app
+- ![alt text](image-4.png)
+- en views.py en castanedaclase_app
+- ![alt text](image-3.png)
+- en url en castanedaclase
+- ![alt text](image-5.png)
