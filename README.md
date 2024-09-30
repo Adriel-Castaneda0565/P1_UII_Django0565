@@ -1,7 +1,7 @@
 # P1_UII_Django0565
 configuraciones básicas para trabajar con el framework de Django
 ## procedimiento
-- crear carpeta de trabajo Dinotienda0565
+- 1 crear carpeta de trabajo Dinotienda0565
 - 2 abrir la carpeta con code
 - 3 abrir terminal de vs code
 - 4 verificar python y su terminal --> python --
